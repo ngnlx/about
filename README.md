@@ -1,14 +1,14 @@
-# Cloud Engineer Profile
+# 🚀 Cloud Engineer Portfolio
 
-Experienced Cloud Engineer specialising in Azure, AWS and Kubernetes. This repository collects quick references to projects that demonstrate my skills.
+Welcome! I'm an experienced Cloud Engineer with a focus on Azure, AWS and Kubernetes. This repository serves as a quick index of hands-on projects and case studies I reference in interviews.
 
-## Quick Links
+## 🌟 Skills at a Glance
 
-- [Azure experience](azure.md)
-- [AWS experience](aws.md)
-- [Kubernetes practice](kubernetes.md)
-- [Infrastructure as Code & DevOps](devops.md)
+- ☁️ [Azure expertise](azure.md) – enterprise architecture, AKS and DevOps.
+- 🟧 [AWS expertise](aws.md) – infrastructure automation, EKS and pipelines.
+- 🐳 [Kubernetes practice](kubernetes.md) – GitOps, monitoring and scaling.
+- 🔧 [IaC & DevOps tooling](devops.md) – Terraform, Terragrunt and CI/CD workflows.
 
-## Contact
+## 📫 Contact
 
-Feel free to explore the projects and reach out during interviews for more details.
+Browse the references and feel free to reach out for more details during interviews.
