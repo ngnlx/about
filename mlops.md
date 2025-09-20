@@ -2,6 +2,10 @@
 
 Covers the complete lifecycle from data ingestion and model training to deployment, monitoring, and optimization - with focus on reliability and scalability.
 
+## 🏗️ Platform & Infrastructure
+
+- 🤖 **Azure AI Foundry**: Unified platform for building, deploying, and managing AI applications. Provides integrated tools for model development, fine-tuning, evaluation, and deployment with built-in safety and governance features.
+
 ## 🔄 Data Pipelines & Orchestration
 
 - 🏭 **Azure Data Factory (ADF)**: Cloud-based data integration service for creating, scheduling, and orchestrating data pipelines. Essential for ETL/ELT processes, data movement, and transformation workflows in ML/AI projects.
