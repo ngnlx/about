@@ -1,6 +1,10 @@
 # 🤖 MLOps & LLM Engineering
 
-Practical notes and hands-on examples for running ML/LLM workloads in production: serving, pipelines, observability, and cost control.
+Covers the complete lifecycle from data ingestion and model training to deployment, monitoring, and optimization - with focus on reliability and scalability.
+
+## 🔄 Data Pipelines & Orchestration
+
+- 🏭 **Azure Data Factory (ADF)**: Cloud-based data integration service for creating, scheduling, and orchestrating data pipelines. Essential for ETL/ELT processes, data movement, and transformation workflows in ML/AI projects.
 
 ## 🧱 Serving & Inference
 
