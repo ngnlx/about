@@ -10,3 +10,4 @@ This repository serves as a quick index of **hands-on projects, POCs, and case s
 - 🟧 [AWS expertise](aws.md) – infrastructure automation, EKS and pipelines.
 - 🐳 [Kubernetes practice](kubernetes.md) – GitOps, monitoring and scaling.
 - 🔧 [IaC & DevOps tooling](devops.md) – Terraform, Terragrunt and CI/CD workflows.
+- 🤖 [MLOps & LLM engineering](mlops.md) – serving/inference, pipelines and observability.
