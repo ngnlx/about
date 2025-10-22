@@ -8,7 +8,6 @@ Hi there! I'm **Nguyen Le**, a Cloud/DevOps Engineer with 13+ years in software 
 - **DevSecOps Leadership**: Proven track record in establishing CI/CD pipelines, infrastructure automation, and security-first development practices
 - **Cross-Platform Expertise**: Deep experience with both Azure and AWS ecosystems, enabling technology-agnostic solutions
 - **Team Leadership**: Successfully led technical teams and mentored junior engineers in cloud technologies and best practices
-- **Business Impact**: Delivered solutions that improved system reliability by 99.9%, reduced deployment time by 80%, and optimized cloud costs by 40%
 
 This section showcases my **cloud journey** through hands-on experiments and case studies. Many of these implementations have been applied extensively in real projects, covering core infrastructure components and common patterns that form the foundation of enterprise cloud solutions. *This is a condensed overview - for comprehensive details and full project descriptions, please refer to my resume.*
 
