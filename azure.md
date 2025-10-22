@@ -19,9 +19,7 @@ Designing resilient Azure platforms with Terraform, GitOps and modern networking
 - 🔌 Internal API Management with Application Gateway & Function Apps – [learn.microsoft.com](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/integration/app-gateway-internal-api-management-function).
 - 📘 **Case study:** Application Gateway & App Services (with DR) – [ngnlx/azure-architecture-with-application-gateway-and-app-service](https://github.com/ngnlx/azure-architecture-with-application-gateway-and-app-service).
 - 📗 **Case study:** App Gateway with API Management – [ngnlx/standard-azure-architecture-with-terraform](https://github.com/ngnlx/standard-azure-architecture-with-terraform).
-- 🎯 **Side project:** AKS & GitOps – [ngnlx/aks-gitops-lab](https://github.com/ngnlx/aks-gitops-lab).
 - ⚙️ **Side project:** Azure AKS with AGIC, AAD & Workload Identity – [ngnlx/aks-agic-greenfield-with-tf](https://github.com/ngnlx/aks-agic-greenfield-with-tf).
-- 🌐 **Side project:** Hosting static webapp with FrontDoor – [frontdoor-with-storage-account](https://github.com/ngnlx/standard-azure-architecture-with-terraform/tree/main/frontdoor-with-storage-account).
 - 🧩 **Terragrunt workflows** – [ngnlx/terragrunt-with-azure](https://github.com/ngnlx/terragrunt-with-azure).
 - 🔐 **Provision Terraform to Azure using GitHub Actions (OIDC)** – [ngnle/terraform-with-github-actions](https://github.com/ngnle/terraform-with-github-actions).
 
