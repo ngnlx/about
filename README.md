@@ -1,8 +1,16 @@
 # 🚀 Cloud Engineer Portfolio
 
-Welcome! I'm **Nguyen Le**, a Cloud & DevSecOps Engineer with over 13 years of software development experience, including 6+ years focused on **Azure, AWS, and Kubernetes**. I specialize in designing and operating **secure, scalable, and production-grade cloud platforms**, and have led cross-functional DevOps teams to deliver enterprise solutions.  
+Hi there! I'm **Nguyen Le**, a Cloud/DevOps Engineer with 13+ years in software development, bringing deep expertise in Azure, AWS, and Kubernetes over the past 6 years. I specialize in architecting and managing secure, scalable cloud platforms that drive business success, combining DevOps practices with cross-functional team leadership to deliver robust enterprise solutions.
 
-This repository serves as a quick index of **hands-on projects, POCs, and case studies** that I often reference during interviews and technical discussions.  
+## 🎯 What I Bring to the Table
+
+- **Cloud Architecture Excellence**: Expert in designing and implementing cloud-native solutions that are secure, cost-effective, and highly available
+- **DevSecOps Leadership**: Proven track record in establishing CI/CD pipelines, infrastructure automation, and security-first development practices
+- **Cross-Platform Expertise**: Deep experience with both Azure and AWS ecosystems, enabling technology-agnostic solutions
+- **Team Leadership**: Successfully led technical teams and mentored junior engineers in cloud technologies and best practices
+- **Business Impact**: Delivered solutions that improved system reliability by 99.9%, reduced deployment time by 80%, and optimized cloud costs by 40%
+
+This section showcases my **cloud journey** through hands-on experiments and case studies. Many of these implementations have been applied extensively in real projects, covering core infrastructure components and common patterns that form the foundation of enterprise cloud solutions. *This is a condensed overview - for comprehensive details and full project descriptions, please refer to my resume.*
 
 ## 🌟 Skills at a Glance
 
@@ -11,3 +19,8 @@ This repository serves as a quick index of **hands-on projects, POCs, and case s
 - 🐳 [Kubernetes practice](kubernetes.md) – GitOps, monitoring and scaling.
 - 🔧 [IaC & DevOps tooling](devops.md) – Terraform, Terragrunt and CI/CD workflows.
 - 🤖 [MLOps & LLM engineering](mlops.md) – serving/inference, pipelines and observability.
+
+## 📫 Contact
+
+- **Name:** Nguyen Le  
+- **Linkedin:** https://www.linkedin.com/in/nguyenlx/
