@@ -8,7 +8,7 @@ Building automated AWS environments and Kubernetes clusters with Terraform/Terra
 
 ## 🐳 Kubernetes & Deployment
 
-- 🐋 **Standard AWS architecture with Terraform (EKS)** **🆕 Newly Updated - Must Read** [View detailed project documentation](eks-project.md)
+- 🐋 **Standard AWS architecture with Terraform (EKS)** **🆕 Newly Updated - Must Read** [View detailed project documentation](aws/eks-project.md)
   - Maintained and enhanced AWS infrastructure for production microservices, focusing on stability, scalability, and security.
   - Standardized IaC with Terraform & Terragrunt for EKS clusters, VPC, EC2 ASG, RDS, S3, and IAM.
   - Containerized apps with Docker and deployed to EKS using Helm charts for consistent environments.
