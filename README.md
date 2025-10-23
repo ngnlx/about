@@ -22,4 +22,4 @@ This section showcases my **cloud journey** through hands-on experiments and cas
 ## 📫 Contact
 
 - **Name:** Nguyen Le  
-- **Linkedin:** [https://www.linkedin.com/in/nguyenlx/](https://bit.ly/nle-linkedin)
+- **Linkedin:** [https://www.linkedin.com/in/nguyenlx/](https://bit.ly/linkedin-nle)
